@@ -1,0 +1,13 @@
+.logging {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .logging a {
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: grey;
+    text-align: inherit;
+  }
+  
